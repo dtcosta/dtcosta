@@ -2,7 +2,7 @@
 ![](https://github.com/dtcosta/dtcosta/blob/main/David%20Costa%20(1).png?raw=true)
 
 <p align="center">
- <h2 align="center">Welcome to my Profile</h2>
+ <h2 align="center">Welcome to my profile</h2>
 </p>
 
 ### Hello World 👋 I am [David Costa](https://github.com/dtcosta)
