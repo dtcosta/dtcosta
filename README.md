@@ -16,8 +16,8 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on **completing Columbia University FinTech Bootcamp.**
-- 🌱 I’m currently learning **Python, Machine Learning and Blockchain.**
+- 🔭 I’m currently **completing Columbia University FinTech Bootcamp.**
+- 🌱 I’m learning **Python, Machine Learning and Blockchain.**
 - 👯 If you have any sales or business development opportunities in FinTech, reach out to me.
 - 💬 Ask me about **my Golden Retriever.**
 - ⚡ Fun quote: **Abusy person will always find time.**
