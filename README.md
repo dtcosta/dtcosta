@@ -25,7 +25,6 @@
 </h4>
 </div>
 
-<br />
 
 <div><p>My overview: </p></div>
 
