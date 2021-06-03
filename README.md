@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently **completing Columbia University FinTech Bootcamp.**
 - 🌱 I’m learning **Python, Machine Learning and Blockchain.**
-- 👯 If you have any sales or business development opportunities in FinTech, reach out to me&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dtcostaphone@gmail.com).
+- 👯 If you have any sales or business development opportunities in FinTech, reach out to me.
 - 💬 Ask me about **my Golden Retriever.**
 - ⚡ Fun quote: **A busy person always find time.**
 
